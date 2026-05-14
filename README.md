@@ -1,5 +1,4 @@
-# MIG Golf Improvement App — Login + Stripe Version
-
+# MIG Golf Improvement App 
 This version includes:
 
 - MIG Golf logo branding
